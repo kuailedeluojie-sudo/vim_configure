@@ -1,2 +1,2 @@
 # vim_configure
-VIM CONFUGYRE
+  vim插件
